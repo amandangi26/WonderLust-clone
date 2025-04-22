@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.16.0",
-    "cloudinary": "^2.2.0",
+    "cloudinary": "^1.41.3",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^5.1.0",
     "dotenv": "^16.4.5",
@@ -25,6 +25,7 @@
     "mapbox-sdk-js": "https://github.com/mapbox/mapbox-sdk-js.git",
     "method-override": "^3.0.0",
     "moment": "^2.30.1",
+    "mongodb": "^6.9.0",
     "mongoose": "^8.3.0",
     "multer": "^1.4.5-lts.1",
     "multer-storage-cloudinary": "^4.0.0",
