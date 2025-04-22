@@ -34,3 +34,9 @@ A full-stack travel and stay booking web application inspired by platforms like 
 ```bash
 git clone https://github.com/amandangi26/WonderLust-clone.git
 cd WonderLust-clone
+**2. Install Dependencies**
+npm install
+
+🙋‍♂️ Author
+Made with ❤️ by Aman Dangi
+
