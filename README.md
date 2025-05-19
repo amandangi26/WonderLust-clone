@@ -1,4 +1,4 @@
-# 🌍 WonderLust Clone
+# 🌍 AirBnb Clone
 
 A full-stack travel and stay booking web application inspired by platforms like Airbnb. This project is built using **Node.js**, **Express**, **EJS** for server-side templating, and **MongoDB** for the database.
 
